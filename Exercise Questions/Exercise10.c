@@ -1,4 +1,4 @@
-#Write a C program to find maximum between three numbers
+#Write a C program to check whether a character is uppercase or lowercase alphabet
 #include <stdio.h>
 int main(){
     char a;
