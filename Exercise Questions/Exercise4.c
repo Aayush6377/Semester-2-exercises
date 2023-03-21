@@ -14,7 +14,7 @@ int main(){
         printf("%d is divisible by 11 but not 5.",a);
     }
     else {
-        printf("%d is neither divisible 5 nor 11",a);
+        printf("%d is neither divisible by 5 nor 11",a);
     }
     return 0;
 }
