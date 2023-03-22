@@ -1,14 +1,12 @@
-//Write a C program to print triangle * pattern
+//Write a C program to add two numbers
 #include <stdio.h>
 int main(){
-    int n;
-    printf("Enter number of rows: ");
-    scanf("%d",&n);
-    for (int i=0; i<n; i++){
-        for (int j=0; j<=i; j++){
-            printf("* ");
-        }
-        printf("\n");
-    }
+    int a,b,c;
+    printf("Enter 1st number: ");
+    scanf("%d",&a);
+    printf("Enter 2nd number: ");
+    scanf("%d",&b);
+    c=a+b;
+    printf("%d + %d= %d",a,b,c);
     return 0;
 }
