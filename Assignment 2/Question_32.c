@@ -2,14 +2,14 @@
 Write a C program to print the given 
 star patterns. 
 
-*                     *
-* *                * *
-* * *           * * *
+*                  *
+* *              * *
+* * *          * * *
 * * * *      * * * *
-1                1
-2 3            2 2
-4 5 6         3 3 3
-7 8 9 10   4 4 4 4*/
+1                  1
+2 3              2 2
+4 5 6          3 3 3
+7 8 9 10     4 4 4 4*/
 
 #include <stdio.h>
 int main(){
