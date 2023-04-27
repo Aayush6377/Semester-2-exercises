@@ -18,9 +18,9 @@ int main(){
     }
     
     if (arm==n){
-        printf("%d is an Armstrong number.");
+        printf("%d is an Armstrong number.",n);
     }
     else {
-        printf("%d is not an Armstrong number.");
+        printf("%d is not an Armstrong number.",n);
     }
 }
