@@ -34,7 +34,7 @@ int main(){
             u++;
         }
         char g=(per==0)?'F':grade[u];
-        printf("%s %.2f %c\n",subject[j],per,g);
+        printf("%s %.2f%% %c\n",subject[j],per,g);
     }
     
     return 0;
