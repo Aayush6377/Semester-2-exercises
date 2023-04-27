@@ -20,10 +20,10 @@ int main(){
     }
     
     if (m==n){
-        printf("%d is a palindrome.");
+        printf("%d is a palindrome.",n);
     }
     else {
-        printf("%d is not a palindrome.");
+        printf("%d is not a palindrome.",n);
     }
     return 0;
 }
