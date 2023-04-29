@@ -1,8 +1,8 @@
 /*WAP in C to print pattern pyramid like:
-        1
-      232
-    34543
-  4567654
+    1
+   232
+  34543
+ 4567654
 567898765 */
 #include <stdio.h>
 int main(){
