@@ -1,9 +1,9 @@
 /*WAP in C by using function to print pattern pyramid like:
 *********
  *******
-   *****
-    ***
-      *
+  *****
+   ***
+    *
 */
 #include <stdio.h>
 int pattern(int r){
