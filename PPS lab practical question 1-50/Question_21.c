@@ -14,7 +14,7 @@ int main(){
         float m[2][r][c];
         
         for (int i=0; i<2; i++){
-            printf("Input Matrix %d\n",i);
+            printf("Input Matrix %d\n",i+1);
             for (int j=0; j<r; j++){
                 for (int k=0; k<c; k++){
                     scanf("%f",&m[i][j][k]);
